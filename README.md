@@ -23,4 +23,4 @@ To use the app, you will need to create a user account. Once you have created an
 The app will recommend music to you based on your listening habits. You can also browse for music by genre, artist, or mood.
 
 Contributing
-We welcome contributions to HarmoniFi. Please read our contributing guidelines for more information.
+I welcome contributions to HarmoniFi. Please read my contributing guidelines for more information.
