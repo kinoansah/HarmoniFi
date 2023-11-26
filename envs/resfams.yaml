@@ -1,0 +1,8 @@
+name: resfams
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - hmmer=3.3.2
+  - prodigal=2.6.3

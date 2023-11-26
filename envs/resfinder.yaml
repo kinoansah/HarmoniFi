@@ -1,0 +1,11 @@
+name: resfinder
+channels:
+  - fmaguire
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - blast
+  - resfinder=3.2
+  - pip:
+    - tabulate

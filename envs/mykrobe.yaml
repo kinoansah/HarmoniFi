@@ -1,0 +1,7 @@
+name: mykrobe
+channels:
+  - defaults
+  - conda-forge
+  - bioconda
+dependencies:
+  - mykrobe=0.9.0

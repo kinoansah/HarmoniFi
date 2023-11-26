@@ -1,0 +1,9 @@
+name: hamronization_workflow
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - snakemake=6.0.2
+  - mamba
+  - unzip 

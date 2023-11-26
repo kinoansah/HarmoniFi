@@ -1,0 +1,7 @@
+name: abricate
+channels:
+  - defaults
+  - conda-forge
+  - bioconda
+dependencies:
+  - abricate=1.0.1

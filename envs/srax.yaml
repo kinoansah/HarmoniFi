@@ -1,0 +1,7 @@
+name: srax
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - srax=1.5
